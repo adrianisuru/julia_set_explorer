@@ -1,0 +1,10 @@
+[package]
+name = "opengl"
+version = "0.1.0"
+authors = ["Adrian Herath <adrianisuru@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+glium = { path = "/home/adrianisuru/glium/" }
+image = "*"
+glutin = "*"
